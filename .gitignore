@@ -1,41 +1,41 @@
 # Prerequisites
-*.d
+ICantBelieveItsNotVicky.d
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+ICantBelieveItsNotVicky.slo
+ICantBelieveItsNotVicky.lo
+ICantBelieveItsNotVicky.o
+ICantBelieveItsNotVicky.obj
 
 # Precompiled Headers
-*.gch
-*.pch
+ICantBelieveItsNotVicky.gch
+ICantBelieveItsNotVicky.pch
 
 # Linker files
-*.ilk
+ICantBelieveItsNotVicky.ilk
 
 # Debugger Files
-*.pdb
+ICantBelieveItsNotVicky.pdb
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+ICantBelieveItsNotVicky.so
+ICantBelieveItsNotVicky.dylib
+ICantBelieveItsNotVicky.dll
 
 # Fortran module files
-*.mod
-*.smod
+ICantBelieveItsNotVicky.mod
+ICantBelieveItsNotVicky.smod
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+ICantBelieveItsNotVicky.lai
+ICantBelieveItsNotVicky.la
+ICantBelieveItsNotVicky.a
+ICantBelieveItsNotVicky.lib
 
 # Executables
-*.exe
-*.out
-*.app
+ICantBelieveItsNotVicky.exe
+ICantBelieveItsNotVicky.out
+ICantBelieveItsNotVicky.app
 
 # debug information files
-*.dwo
+ICantBelieveItsNotVicky.dwo
